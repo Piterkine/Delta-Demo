@@ -9,3 +9,5 @@ by default shraddha mam
 # Platform
 
 Apna College on Telegram
+# It Self
+for learning git and github , i am using this repo this repo not contain any Code and file. 
